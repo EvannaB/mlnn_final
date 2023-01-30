@@ -6,4 +6,4 @@
 
 - naive bayes分类垃圾邮件
 参考：
-- https://blog.csdn.net/Cyril_KI/article/details/107600852?ops_request_misc=&request_id=&biz_id=102&utm_term=naive%20bayes%20mail&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-107600852.142%5Ev71%5Eone_line,201%5Ev4%5Eadd_ask&spm=1018.2226.3001.4187
+  - https://blog.csdn.net/Cyril_KI/article/details/107600852?ops_request_misc=&request_id=&biz_id=102&utm_term=naive%20bayes%20mail&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-107600852.142%5Ev71%5Eone_line,201%5Ev4%5Eadd_ask&spm=1018.2226.3001.4187
